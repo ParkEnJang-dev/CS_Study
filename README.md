@@ -43,7 +43,7 @@
 ## 📚 Curriculum & Progress
 
 ### 🖥️ 1. Operating System (OS)
-- [ ] **프로세스와 스레드** (Process vs Thread, Multi-thread)
+- [x] **프로세스와 스레드** (Process vs Thread, Multi-thread)
 - [ ] **메모리 관리** (Virtual Memory, Paging, Segmentation)
 - [ ] **스케쥴링** (CPU Scheduling Algorithms)
 - [ ] **동기화와 통신** (Mutex, Semaphore, IPC)
