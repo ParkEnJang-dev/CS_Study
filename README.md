@@ -194,7 +194,7 @@
 
 |   주차    |         분류         | 학습 주제 (Topics)              | 상세 내용 및 목표                                                                                | 상태  |
 | :-----: | :----------------: | :-------------------------- | :---------------------------------------------------------------------------------------- | :-: |
-| **1주**  | **Data Structure** | **Stack & Queue**           | - **Stack:** LIFO, 메서드 호출 스택, 뒤로 가기<br>- **Queue:** FIFO, 버퍼, 프린터 대기열 구현                  |  ⬜  |
+| **1주**  | **Data Structure** | **Stack & Queue**           | - **Stack:** LIFO, 메서드 호출 스택, 뒤로 가기<br>- **Queue:** FIFO, 버퍼, 프린터 대기열 구현                  |  ✅  |
 | **2주**  | **Data Structure** | **LinkedList**              | - 노드 기반 연결 구조 이해 (Next 포인터)<br>- 삽입/삭제의 용이성과 검색의 불리함($O(N)$) 비교                           |  ⬜  |
 | **3주**  |     **Search**     | **Linear & Binary Search**  | - **Linear:** 순차 탐색 구현<br>- **Binary:** 정렬된 데이터에서의 탐색 (Up/Down), $O(\log N)$ 증명           |  ⬜  |
 | **4주**  |    **Sorting**     | **Bubble & Insertion Sort** | - **Bubble:** 인접 원소 비교 및 Swap<br>- **Insertion:** 앞부분과 비교하여 위치 삽입<br>- $O(N^2)$ 정렬의 원리 이해 |  ⬜  |
