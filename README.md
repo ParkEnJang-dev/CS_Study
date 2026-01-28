@@ -47,7 +47,7 @@
 - [x] **메모리 관리** (Virtual Memory, Paging, Segmentation)
 - [x] **스케쥴링** (CPU Scheduling Algorithms)
 - [x] **동기화와 통신** (Mutex, Semaphore, IPC)
-- [ ] **네트워킹** (OS 관점의 소켓 통신)
+- [x] **네트워킹** (OS 관점의 소켓 통신)
 - [ ] **파일 시스템**
 - [ ] **I/O** (Blocking, Non-blocking, Sync, Async)
 
